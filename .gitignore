@@ -1,0 +1,11 @@
+# Ignore the .env file (containing sensitive information)
+.env
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore log files
+npm-debug.log
+
+# Ignore any other files you don't want to track
+.DS_Store
